@@ -1,4 +1,9 @@
-Apologies for the oversight! Let's go through the entire code, breaking it down step by step and explaining **all** the content, including the missing parts.
+## What is Phi-4?
+
+* Provide an overview of Phi-4 as a Small Language Model (SLM):
+* Size: 14B parameters — small yet powerful.
+* Specialization: Excels in complex reasoning, especially mathematical problems.
+* Availability: Currently accessible on Azure AI Foundry under the Microsoft Research License Agreement (MSRLA) and soon on Hugging Face.
 
 ### Full Code Explanation:
 
